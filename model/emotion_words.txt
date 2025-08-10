@@ -1,0 +1,6 @@
+happy: joy,smile,happy,pleased,delighted
+sad: sad,unhappy,cry,sorrow,tear
+angry: mad,angry,fury,rage,annoy
+fear: fear,scared,afraid,horror
+surprise: surprised,amazed,shocked
+disgust: disgust,repelled,gross
